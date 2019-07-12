@@ -10,7 +10,7 @@
   },
   "transactions": [
     {"origin_account": "account 1", "destination_account": "abc", "amount": 223.1},
-    {"origin_account": "account 2", "destination_account": "abc", "amount": 22.1},
+    {"origin_account": "account 2", "destination_account": "abc", "amount": 22.1}
     
   ]
 }
