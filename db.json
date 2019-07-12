@@ -1,9 +1,12 @@
 {
-  "posts": [
-    {"origin_account": "account 1", "destination_account": "abc", "amount": 223},
-    {"origin_account": "account 2", "destination_account": "abc", "amount": 22}
-  ],
-  "profile": {
-    "name": "jorgenotfound test ojala funcione"
-  }
+   "posts":[
+      {
+         "origin_account":"account 1",
+         "destination_account":"abc",
+         "amount":223
+      }
+   ],
+   "profile":{
+      "name":"jorgenotfound test ojala funcione"
+   }
 }
